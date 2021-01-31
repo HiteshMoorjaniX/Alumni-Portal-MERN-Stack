@@ -4,12 +4,9 @@
 /node_modules
 /.pnp
 .pnp.js
+
 # testing
 /coverage
-
-# cache
-.eslintcache
-.cache
 
 # production
 /build
